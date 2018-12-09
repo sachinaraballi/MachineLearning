@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 Machine Learning with Python
 ### 1 Machine Learning
 #### Python for Machine Learning
